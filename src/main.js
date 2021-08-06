@@ -6,3 +6,4 @@ const Div = document.getElementById('mouth')
 Div.onclick = ()=>{
     music()
 }
+console.log('hi');
